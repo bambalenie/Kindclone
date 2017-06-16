@@ -1,0 +1,91 @@
+
+
+
+h1{
+	font-size: x-large;
+	height: 10vh;
+}
+
+.paragraph{
+font-size: x-large;
+margin-right:20px;
+
+}
+.para{
+font-size: x-large;	
+}
+.about1{
+	font-size: x-large;
+	background-position: right;
+}
+.description{
+font-size: x-large;
+text-align: left;
+}
+.about-us1{
+	float: left;
+text-transform: arial;
+text-align: left;
+}
+.secondaire{
+	font-size: x-large;
+	text-transform: arial;
+	text-align: left;
+}
+
+.about{
+font-size: x-large;
+}
+
+
+
+
+.entete {
+width: 100%;
+	
+	min-height: 20vh;
+	background-color: #F6F6F6;
+	padding-left: 1em;
+	padding-right: 1em;
+
+  }
+.tete {
+width: 100%;
+	
+	min-height: 20vh;
+	background-color: #61B4E4;
+	padding-left: 1em;
+	padding-right: 1em;
+
+  } 
+  .doré{
+  	width: 100%;
+	
+	min-height: 20vh;
+	background-color: #BABF10;
+	padding-left: 1em;
+	padding-right: 1em;
+
+  } 
+  .ima{
+  	float: center;
+  }
+  .marie{
+  	width: 100%;
+	
+	min-height: 40vh;
+	background-color: #F2F2F2;
+	padding-left: 1em;
+	padding-right: 1em;
+  }
+  .danielle{
+  	width: 100%;
+	
+	min-height: 80vh;
+	background-color: rgb(0,0,0);
+	padding-left: 1em;
+	padding-right: 1em;
+  }
+  .bouton{
+  	color: rgb(0,0,0);
+  }
